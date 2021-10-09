@@ -1,9 +1,9 @@
 # kpmg-challenge
 
-# Challeneg - 1
+# Challenge - 1
 
 I started to build 3-tier architecture in AWS using terraform. Architecture diagram is also attached.
-As advised in first discussion, I tried to build the code from scratch but it took long time to write the code. Currently I was not able to complete the code and just completed the networking side of it. Resources whose code I have completed are:
+As advised in first discussion, I tried to build the code from scratch but it took more than 30 minutes as instructed to write the code. Currently I was not able to complete the code and just worked on networking side of it. Resources whose codes I have completed are:
 - 1 VPC
 - Subnet (2 Public and 2 private, in different Availibility zones)
 - Route Tables (2 route tables)
